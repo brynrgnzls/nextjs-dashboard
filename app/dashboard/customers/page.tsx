@@ -1,5 +1,5 @@
 import { ReactNode } from "react";
 
-export default function Customers({ children }: { children: ReactNode }) {
+export default function Customers() {
   return <p>Customers Page</p>;
 }
